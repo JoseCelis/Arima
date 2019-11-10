@@ -1,0 +1,2 @@
+# Arima
+Tiime series ARIMA
